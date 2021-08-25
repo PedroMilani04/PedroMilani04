@@ -8,7 +8,7 @@ class SobreMim extends Desenvolvedor {
   local = 'ETEC / ACEOC';
 }
 
-class Skills extends Desenvolvedor {
+class Skills extends Desenvolvedor (Em Aprendizagem) {
   linguagens  = ['JavaScript, Python, C#'];
   softwares  = ['VisualStudio, VisualStudio Code, SQLServer Management, Sublime'];
 }
