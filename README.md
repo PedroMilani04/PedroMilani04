@@ -1,11 +1,15 @@
-object **Pedro Milani** { <br>
- val acknowledgements = "MySQL, VisualStudio, VisualStudio Code"  ![alt text](https://github.com/PedroMilani04/README.md/blob/main/computer-illustration.png?raw=true) <br>
- 
- val primarySkillset = "ALGUMAS HABILIDADES" <br>
- val languages = listOf("Python", "JavaScript", "C#") <br>
+<img src="https://user-images.githubusercontent.com/89487697/130870384-248e1eb6-d0ee-4764-bdf2-7b13e3627e7a.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Pedro"> <br>
+```js
+import Desenvolvedor from 'PedroMilani04';
 
+class SobreMim extends Desenvolvedor {
+  nome  = 'Pedro Henrique';
+  area  = 'Estudante';
+  local = 'ETEC / ACEOC';
 }
-<!---
-PedroMilani04/PedroMilani04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+class Skills extends Desenvolvedor {
+  linguagens  = ['JavaScript, Python, C#'];
+  softwares  = ['VisualStudio, VisualStudio Code, SQLServer Management, Sublime'];
+}
+```
