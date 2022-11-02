@@ -5,7 +5,7 @@ import Desenvolvedor from 'PedroMilani04';
 class SobreMim extends Desenvolvedor {
   nome  = 'Pedro Henrique';
   area  = 'Estudante';
-  local = 'ETEC / ACEOC';
+  local = 'ETEC';
 }
 
 class Skills extends Desenvolvedor (Em Aprendizagem) {
