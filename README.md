@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/89487697/130870384-248e1eb6-d0ee-4764-bdf2-7b13e3627e7a.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Pedro"> 
 
 
-<div align="left">
+<div align="right">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroMilani04&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMilani04&layout=compact&langs_count=7&theme=radical"/>
