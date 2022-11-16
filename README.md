@@ -33,10 +33,7 @@
   <a href="https://www.linkedin.com/in/pedro-henrique-milani-vagula-6a291a21b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   <a href="https://github.com/PedroMilani04" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
   </a> 
-    
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroMilani04&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMilani04&layout=compact&langs_count=7&theme=radical"/>
- 
+
 
  
 </div>
