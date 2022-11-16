@@ -8,7 +8,7 @@
 
  </div>
  
-<br />
+
 
 ## Progamming Languages and Technologies
 <div>
