@@ -6,9 +6,7 @@
  </div>
 <img src="https://user-images.githubusercontent.com/89487697/130870384-248e1eb6-d0ee-4764-bdf2-7b13e3627e7a.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Pedro"> 
  
- 
-
-
+ <br />
 
 ## Progamming Languages and Technologies
 <div>
