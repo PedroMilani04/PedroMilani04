@@ -6,7 +6,7 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=PedroMilani04&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   
 </div>
- 
+<p>
 ## Progamming Languages and Technologies
 <div>
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -37,3 +37,4 @@
 
  
 </div>
+</p>
