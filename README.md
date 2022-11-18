@@ -1,5 +1,5 @@
 # Hello there! I'm Pedro!
-<img src="https://data.terabox.com/thumbnail/0b6eae0957da75477454c9da86f5d176?fid=4401413037865-250528-532365049594000&rt=pr&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-4rVH5BeswrK7IcvHqwl3XV9hGQo%3d&expires=8h&chkbd=0&chkv=0&dp-logid=532110614607741757&dp-callid=0&time=1668715200&size=c1920_u1080&quality=90&vuk=4401413037865&ft=image&autopolicy=1"/>
+<img src="https://data.terabox.com/thumbnail/19456f63d4f52ea5e2617a16462488a2?fid=4401413037865-250528-1052514894788631&rt=pr&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-XZNIbh15HZMB4un0fYdVQFTt7QU%3d&expires=8h&chkbd=0&chkv=0&dp-logid=537420341045185461&dp-callid=0&time=1668736800&size=c1920_u1080&quality=90&vuk=4401413037865&ft=image&autopolicy=1"/>
 
 
 <div align="left">
