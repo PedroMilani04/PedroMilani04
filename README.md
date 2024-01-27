@@ -1,5 +1,5 @@
 
-<a href="https://pedro-portfolio-cyan.vercel.app/"> <img align="center" src="https://i.ibb.co/ByWW7TF/Screenshot-6.png"/>
+<a href="https://pedro-portfolio-cyan.vercel.app/"> <img align="center" src="https://ibb.co/WBKyM6k"/>
  </a>
 
 
