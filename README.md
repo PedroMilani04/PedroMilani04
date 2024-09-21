@@ -4,7 +4,8 @@
 
 
 <div align="left">
-   <img height="180em" width="380rem" src="https://github-readme-stats.vercel.app/api?username=PedroMilani04&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
+ 
+   <img height="180em" width="380rem" src="https://github-readme-stats.vercel.app/api?username=PedroMilani04&theme=default&show_icons=true&hide_border=true&count_private=true"/>
   <img height="180em" width="370rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMilani04&layout=compact&langs_count=7&theme=swift"/>
  
   
