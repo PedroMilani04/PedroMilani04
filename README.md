@@ -7,9 +7,10 @@
 
 </div>
 
-<div align="left">
+<div align="center">
  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroMilani04&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PedroMilani04&theme=transparent&utcOffset=8)
 
 </div>
 
