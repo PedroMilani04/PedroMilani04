@@ -6,7 +6,7 @@
 ![](./profile-3d-contrib/profile-night-view.svg)
 
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroMilani04&theme=github_dark" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroMilani04&theme=github_dark" width="90%"/>
     
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PedroMilani04&theme=github_dark&utcOffset=8" />
    
