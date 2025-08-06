@@ -5,8 +5,7 @@
 ## Stats
 <div align="left">
  
-   <img height="180em" width="380rem" src="https://github-readme-stats.vercel.app/api?username=PedroMilani04&theme=default&show_icons=true&hide_border=true&count_private=true"/>
-  <img height="170em" width="390rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMilani04&layout=compact&langs_count=7&theme=swift"/>
+![](./profile-3d-contrib/profile-green-animate.svg)
 
   
 </div>
