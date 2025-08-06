@@ -6,7 +6,7 @@
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
 
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroMilani04&theme=default" width="60%" style="margin-right: 120px;"/>    
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroMilani04&theme=default" width="65%" style="margin-right: 120px;"/>    
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PedroMilani04&theme=default&utcOffset=8" width="35%"/>
    
 
