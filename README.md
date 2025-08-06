@@ -7,6 +7,11 @@
 
 </div>
 
+<div align="left">
+ 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={PedroMilani04}&theme={default})
+
+</div>
 
 
 <p>
