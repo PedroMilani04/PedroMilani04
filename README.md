@@ -9,8 +9,7 @@
 
 <div align="left">
  
-![]()
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={PedroMilani04}&theme={default}"/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroMilani04&theme=transparent)
 
 </div>
 
