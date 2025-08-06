@@ -2,17 +2,22 @@
 # <p align="center"> Hi! I'm Pedro </p>
 
 <div align="left">
- 
+
 ![](./profile-3d-contrib/profile-night-view.svg)
 
+<table>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroMilani04&theme=transparent" />
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PedroMilani04&theme=transparent&utcOffset=8" />
+    </td>
+  </tr>
+</table>
+
 </div>
 
-<div>
- 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroMilani04&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PedroMilani04&theme=transparent&utcOffset=8)
-
-</div>
 
 
 <p>
