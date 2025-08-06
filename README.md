@@ -1,8 +1,6 @@
 
-<a href="https://portfolio2-0-iota-nine.vercel.app"> <img align="center" src="https://i.ibb.co/ft6w0jP/landscape-rocks-2560x1080-11016-1.png"/>
- </a>
 
-## Stats
+## Hi! I'm Pedro
 <div align="left">
  
 ![](./profile-3d-contrib/profile-green-animate.svg)
