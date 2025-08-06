@@ -8,10 +8,10 @@
 <table>
   <tr>
     <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroMilani04&theme=transparent" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroMilani04&theme=github_dark" />
     </td>
     <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PedroMilani04&theme=transparent&utcOffset=8" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PedroMilani04&theme=github_dark&utcOffset=8" />
     </td>
   </tr>
 </table>
