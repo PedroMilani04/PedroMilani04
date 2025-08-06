@@ -1,7 +1,7 @@
 
 # <p align="center"> Hi! I'm Pedro </p>
 
-<div align="center">
+<div display="flex">
 
 ![](./profile-3d-contrib/profile-night-view.svg)
 
